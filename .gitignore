@@ -1,1 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Model weights
+*.pth
+*.pt
+
+# Large dataset folders
+data/train/
+data/test/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle
+kaggle.json
+
+# Logs
+*.log
